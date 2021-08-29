@@ -1,0 +1,27 @@
+[
+    {
+        "title": "List 1",
+        "cards": [
+            {
+                "title": "card 1",
+                "desc": "You can drag and drop me to another list",
+                "creationTime": "2021-08-29T11:15:04.195Z"
+            },
+            {
+                "title": "card 2",
+                "desc": "You can drag and drop me to another list",
+                "creationTime": "2021-08-29T11:15:04.195Z"
+            }
+        ]
+    },
+    {
+        "title": "List 2",
+        "cards": [
+            {
+                "title": "card 3",
+                "desc": "You can drag and drop me to another list",
+                "creationTime": "2021-08-28T11:15:04.195Z"
+            }
+        ]
+    }
+]
